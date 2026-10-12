@@ -1,2 +1,0 @@
-# GIPress-App
-Landing Page
